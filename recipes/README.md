@@ -1,0 +1,1 @@
+This is my first ever project demonstrating basic HTML skills. I've learned to use relative links, and that images need to be saved within the directory I'm working in for their links to work properly.
